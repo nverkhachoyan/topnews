@@ -1,0 +1,19 @@
+
+
+.post {
+    margin-bottom: 1.2em;
+}
+
+.post-title {
+    text-transform: capitalize;
+    margin-bottom: .5em;
+}
+
+.first-post .post-title{
+    font-size: 1.5rem;
+}
+
+.first-post .post-image {
+    max-width: 100%;
+    margin-bottom: 1em;
+}
